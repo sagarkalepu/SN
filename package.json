@@ -17,9 +17,11 @@
   },
   "homepage": "https://github.com/sagarkalepu/SN#readme",
   "dependencies": {
+    "apollo-server": "^2.1.0",
     "apollo-server-express": "^2.1.0",
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
+    "graphql": "^14.0.2",
     "socketio": "^1.0.0"
   }
 }
